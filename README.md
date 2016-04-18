@@ -1,2 +1,3 @@
 # Guessing_Ball_Order_Game
-# aaa
+### What is the app about?
+* This is a Java application that I did for my first assignment in Programming 1 course of RMIT. This is a game about guessing the order of the balls given in the ring. On the left hand side, there is a list of balls so that the player could check if his/her guess is right or wrong. When the player guess the first ball, if the answer list appear a white ball, it means the guessed ball is in the ring but not at the right order. Otherwise, the black ball appears, it means the guessed ball is right order. If no balls appear, the guessed ball is not in the ring.
