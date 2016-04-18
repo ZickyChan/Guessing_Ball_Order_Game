@@ -1,0 +1,4 @@
+Zick,750
+adas,1000
+Hung,1000
+null,500
